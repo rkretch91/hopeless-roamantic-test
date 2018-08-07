@@ -1,2 +1,30 @@
-%section.gh-subscribe
-  %h1.gh-subscribe-title Subscribe
+---
+pageable: true
+per_page: 6
+cover: crooked-tree.jpg
+---
+
+%header.main-header.author-head{cover}
+  %nav.main-nav.overlay.clearfix
+    - if blog_settings.logo.present?
+      %a.blog-logo{href: home_path}
+        = image_tag blog_settings.logo, alt: blog_settings.name
+    - if blog_settings.navigation
+      %a.menu-button.icon-menu{href: '#'}
+        %span.word Menu
+
+%section.author-profile.inner
+  - if gravatar?
+    %figure.author-image
+      .img{style: "background-image: url(#{gravatar(114)})"}
+        %span.hidden #{blog_author.name}'s Picture
+  %h1.author-title Contact Me
+  %form{:method => "POST", :'data-netlify' => "true"}
+    .input-group
+      %input.btn.btn-lg{:type => "name", name: "name", placeholder: "Your Name"}
+      %br/
+      %input.btn.btn-lg{:type => "email", name: "email", placeholder: "Your Email"}
+      %br/
+      %input{:type => "text", name: "message", placeholder: "Your Message"}
+      %br/
+      %button.btn.btn-info.btn-lg{type: "submit"} Submit
