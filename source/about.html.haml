@@ -31,6 +31,3 @@ cover: crooked-tree.jpg
       %i.icon-stats
       = pluralize(blog.articles.count, 'post')
 
-%main#content.content{role: :main}
-  = partial('shared/page_articles',
-            locals: { page_articles: page_articles, paginate: paginate })
