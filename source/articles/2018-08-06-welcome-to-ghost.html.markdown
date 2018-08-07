@@ -1,7 +1,7 @@
 ---
 title: Spontaneous Weekend in Szczecin, Poland
 date: 2018-08-06
-tags: Poland, Szczecin
+tags: Poland, Szczecin, Life
 cover: szczecin.jpg
 layout: post
 ---

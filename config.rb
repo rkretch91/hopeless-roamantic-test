@@ -4,7 +4,7 @@
 
 config[:casper] = {
   blog: {
-    url: 'http://www.example.com',
+    url: 'http://www.thehopelessroamantic.com',
     name: 'The Hopeless Roamantic',
     description: 'Makes developing websites simple.',
     date_format: '%d %B %Y',
@@ -39,6 +39,8 @@ config[:casper] = {
   navigation: {
     "Home" => "/",
     "About" => "/about",
+    "Travel" => "/travel",
+    "Life" => "/life",
     "Contact" => "/contact"
   }
 }
