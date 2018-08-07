@@ -1,0 +1,13 @@
+.nav
+  %h3.nav-title Menu
+  %a.nav-close{href: '#'}
+    %span.hidden Close
+  %ul
+    - navigation.try(:each) do |label, href|
+      - css_class = %W(nav-#{label.parameterize})
+      - css_class << "nav-current" if current_page.url == href
+      %li{class: css_class.join(' ')}
+        %a{href: href}= label
+    %a.icon-twitter{href: feed_path, style:"position: absolute; bottom: 10px; text-decoration: none;"}
+    %a.icon-facebook{href: feed_path, style:"position: absolute; bottom: 10px; left: 50px; text-decoration: none;"}
+%span.nav-cover
