@@ -9,7 +9,7 @@ layout: post
 <span class="first-letter">I</span>t’s Sunday sunset time and I am sitting back on a [Flixbus](https://www.flixbus.com/) having just passed back over the Polish-German Border into a bucolic, wind turbine-infested Germany. Part of me is craving the craziness and liveliness of my life in Berlin, but most of me is still floating in [Szczecin](https://wikitravel.org/en/Szczecin), a totally different world (which has one too many consonants to pronounce) just two hours from the German capital.
 
 
-I made the choice to surprise my boyfriend, Bruno with a trip to Szczecin just over a week ago, when I decided it was time to spontaneously book a weekend trip somewhere new and unique without having to fly. While I was initially unthrilled about booking a trip to somewhere else urban, I now have absolutely no regrets.
+I made the choice to surprise my boyfriend, Bruno with a trip to Szczecin just over a week ago, when I decided it was time to spontaneously book a weekend trip somewhere new and unique [without having to fly](thehopelessroamantic.com/2018/08/08/tips-surviving-flight-anxiety/). While I was initially unthrilled about booking a trip to somewhere else urban, I now have absolutely no regrets.
 
 ![Surprise Bruno!](https://res.cloudinary.com/dofuzeof4/image/upload/v1533732518/The%20Hopeless%20Roamantic/Szczecin/getting-ready-to-go.jpg)
 
