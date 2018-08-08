@@ -9,7 +9,7 @@ config[:casper] = {
     description: 'Makes developing websites simple.',
     date_format: '%d %B %Y',
     navigation: true,
-    logo: 'the-hopeless-roamantic-white-logo.png' # Optional
+    logo: 'the-hopeless-roamantic-logo.png' # Optional
   },
   author: {
     name: 'Ryan',
