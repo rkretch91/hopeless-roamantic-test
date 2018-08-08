@@ -470,6 +470,11 @@ textarea {
     min-height: 80px;
 }
 
+.first-letter {
+  font-size: 70px;
+  line-height: 70px;
+}
+
 input[type="text"]:focus,
 input[type="email"]:focus,
 input[type="search"]:focus,
