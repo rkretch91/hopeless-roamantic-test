@@ -1,7 +1,7 @@
 .extra-pagination.inner
   = partial('shared/pagination') if paginate
 
-- page_articles.sort_by(&:title).each do |article|
+- page_articles.sort_by(&:date).reverse.each do |article|
   - if article.tags.include? "Life"
     %article.post
       %header.post-header
