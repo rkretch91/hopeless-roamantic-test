@@ -11,7 +11,7 @@ With getting this blog up and running, I decided I needed to be truly committed 
 For everyone, these sites can be used as a means for you to book spontaneous travel; whether you want to surprise your partner for a weekend away, find your first destination on a ‘career gap’, or just go somewhere that you have never been before for a period of time. After reading these resources, I double dare you to take that first step and book something. No matter where you end up, even if it is just for a day, you are going to permanently imprint this memory and empowerment of spontaneous travel in your mind forever; and it may even spawn more frequent trips.
 
 Here they are in no particular order:
-####1) [Secret Flying](secretflying.com)
+####1) [Secret Flying](https://www.secretflying.com/)
 This site is truly incredible and should really remain a secret (but I can’t help but blurt it out whenever I am with someone). It uses an algorithm to pull out the latest error airfares or super-cheap deals and aggregate them all together. Typically these are odd routes from and to odd airports, but major cities all over the world are in there as well. You can sign up for a daily newsletter by region, so that you can have all the deals sent to your mailbox in one go. My favorite part is that it gives me cheap as hell airfares for just a few locations, so I have constraints and don’t have to get overwhelmed about my breadth of travel locations.
 
 I recently booked a roundtrip flight on it from [<b>Berlin to Brindisi, Italy for, get this, 19 Euro</b>](https://www.secretflying.com/posts/berlin-germany-to-brindisi-italy-for-only-e19-roundtrip/). I wouldn’t have learned about what Brindisi was, had it not been for Secretflying!
