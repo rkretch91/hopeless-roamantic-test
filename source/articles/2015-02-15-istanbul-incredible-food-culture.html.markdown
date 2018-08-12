@@ -14,7 +14,7 @@ I was lucky enough to have just about the best [Couchsurfing](https://www.couchs
 
 So let’s start in no particular order. I might throw a story in here and there as to how I was introduced to the dish, but on with the gluttony:
 
-One night after a few beers and a long day of walking in the rain, hunger overcame me. Ösgür came to the rescue and ordered us delivery. While we waited, he described the sandwich to me as a sort of bologna and cheese sandwich. I was a little apprehensive about that description until it actually came. The name of glorious explosion of a sandwich is <b>Izmir Kumru</b>, featuring a crisp but creamy cheese called sucuk dripping through the gaps of mountains of salami/bologna/pepperoni-like meat. The perfectly baked bread, meat, and cheese hit every taste bud and induce an unavoidable mouth orgasm. I ate this twice in my five days in Istanbul.
+One night after a few beers and a long day of walking in the rain, hunger overcame me. Ösgür came to the rescue and ordered us delivery. While we waited, he described the sandwich to me as a sort of bologna and cheese sandwich. I was a little apprehensive about that description until it actually came. The name of glorious explosion of a sandwich is <b>Izmir Kumru</b>, featuring a crisp but creamy cheese called <b>sucuk</b> dripping through the gaps of mountains of salami/bologna/pepperoni-like meat. The perfectly baked bread, meat, and cheese hit every taste bud and induce an unavoidable mouth orgasm. I ate this twice in my five days in Istanbul.
 
 ![Izmir Kumru in Istanbul](https://res.cloudinary.com/dofuzeof4/image/upload/v1533805545/izmir-kumru_fkv1fg.png)
 
