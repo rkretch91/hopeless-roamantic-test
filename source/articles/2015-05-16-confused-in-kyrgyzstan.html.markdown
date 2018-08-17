@@ -50,9 +50,6 @@ As I left Osh Bazaar, I realized I had completely forgotten how to get to Ala-Ar
 
 ![Mr. Doner Bishkek](https://res.cloudinary.com/dofuzeof4/image/upload/v1534508391/The%20Hopeless%20Roamantic/Bishkek/Kyrgystan-Bishkek-Doner.jpg)
 
-![Soviet Architecture Bishkek](https://res.cloudinary.com/dofuzeof4/image/upload/v1534508386/The%20Hopeless%20Roamantic/Bishkek/Kyrgystan-Bishkek-Soviet-Architecture.jpg)
-
-
 #####Sunny Bishkek
 
 Bishkek, on the contrary, is a completely different city in the sun. It is hard to take away the crumbling infrastructure of the city, but the sun casts an entirely different light and energy onto the city. My final day in Bishkek was filled with sun and I started to appreciate the large boulevards and green parks of the city. Rather than trying my luck again at the mad marshrutka, I decided to rent a taxi for the day (approximately $30) and head to Ala-Archa. Using my limited Russian, I persuaded my guide to take me to his favorite dive restaurant in Bishkek. Being too polite to join me, I enjoyed an entirely too cheap meal of Plov, or rice roasted in lamb fat with pieces of lamb, carrots, and onions, and Kyrgyz-style borscht, oh and of course зеленый чай (green tea), a staple of Kyrgyzstan and much of Central Asia. 
