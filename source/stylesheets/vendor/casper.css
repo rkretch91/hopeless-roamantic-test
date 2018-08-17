@@ -2190,9 +2190,39 @@ body.page-template .post-title {
 
 }
 
+/* ==========================================================================
+   14. Extras
+   ========================================================================== */
+
+.map {
+  margin: 0;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #ffffff;
+  overflow: hidden;
+}
+svg {
+  width: 90vw;
+  height: 90vh;
+}
+path {
+  fill: #555;
+  cursor: pointer;
+}
+path:hover {
+  fill: deepskyblue;
+}
+
+
+
+.GE, .US, .CA, .KZ, .DK, .IS, .KG, .CN, .BR, .AM, .TR, .GR, .JP, .PH, .TW, .IN, .LK, .TH, .KH, .DE, .GB, .FR, .IT, .PL, .ES, .ZA, .KR {
+  fill: #8affa1;
+}
 
 /* ==========================================================================
-   14. Animations
+   15. Animations
    ========================================================================== */
 
 /* Used to fade in title/desc on the home page */
