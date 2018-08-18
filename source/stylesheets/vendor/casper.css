@@ -2218,13 +2218,13 @@ path:hover {
 
 
 .GE, .US, .CA, .KZ, .DK, .IS, .KG, .CN, .BR, .AM, .TR, .GR, .JP, .PH, .TW, .IN, .LK, .TH, .KH, .DE, .GB, .FR, .IT, .PL, .ES, .ZA, .KR {
-  fill: #8affa1;
+  fill: #3fc8fd;
 }
 
 .sign-up {
   text-align: center;
   padding: 30px;
-  background-color: #8affa1;
+  background-color: #3fc8fd;
   height: auto;
   color: white;
 }
@@ -2234,7 +2234,8 @@ path:hover {
 }
 
 .sign-up p {
-  width: 50%;
+  width: 80%;
+  max-width: 710px;
   margin: 0 auto;
   padding-bottom: 20px;
 }
@@ -2248,6 +2249,13 @@ path:hover {
   background-color: #555;
   border: none;
   font-size: 15px;
+}
+
+@media only screen and (max-width: 600px) {
+.btn-submit {
+  margin-top: 20px;
+
+  }
 }
 
 .btn-submit:focus {
