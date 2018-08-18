@@ -2254,6 +2254,10 @@ path:hover {
   outline: none;
 }
 
+.btn-submit:hover {
+  background-color: grey;
+}
+
 .email {
   border-style: solid;
   border-top-width: 0;
