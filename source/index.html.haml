@@ -23,8 +23,19 @@ cover: trailer.jpg
 %main#content.content{role: :main}
   = partial('shared/page_articles',
             locals: { page_articles: page_articles, paginate: paginate })
-.map{style: "height: 50vh"}
+.map
   = partial('shared/map')
+.sign-up
+  %h2 Sign Up
+  %p Are you the type to get lost in travel planning at work? If you need some travel inspiration, subscribe below for stories, tips and more. I promise I won't overload your mailbox with bullshit.
+  %form#email-form
+    %input.email{:name => "email", :type => "text", :'data-netlify' => "true"}/
+    %input.btn-submit{:type => "submit", :value => "Subscribe"}/
+  %p#success-message
+
+
+
+
 .elfsight-app-8f530655-f193-4f52-8ca9-0abb6fff7345
 
 %script{src: 'https://apps.elfsight.com/p/platform.js', defer: "true"}

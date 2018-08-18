@@ -446,7 +446,7 @@ margin on the iframe, cause it breaks stuff. */
     margin: 0;
 }
 
-textarea, select, input:not([type="radio"]):not([type="checkbox"]){
+/*textarea, select, input:not([type="radio"]):not([type="checkbox"]){
     width: 260px;
     padding: 6px 9px;
     margin: 0 0 5px 0;
@@ -468,7 +468,7 @@ textarea {
     min-width: 250px;
     height: auto;
     min-height: 80px;
-}
+}*/
 
 .first-letter {
   font-size: 70px;
@@ -2196,12 +2196,12 @@ body.page-template .post-title {
 
 .map {
   margin: 0;
-  height: 70vh;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
   background: #ffffff;
-  overflow: hidden;
+  overflow: visible;
 }
 svg {
   width: 90vw;
@@ -2219,6 +2219,66 @@ path:hover {
 
 .GE, .US, .CA, .KZ, .DK, .IS, .KG, .CN, .BR, .AM, .TR, .GR, .JP, .PH, .TW, .IN, .LK, .TH, .KH, .DE, .GB, .FR, .IT, .PL, .ES, .ZA, .KR {
   fill: #8affa1;
+}
+
+.sign-up {
+  text-align: center;
+  padding: 30px;
+  background-color: #8affa1;
+  height: auto;
+  color: white;
+}
+
+.sign-up h2 {
+  color: white;
+}
+
+.sign-up p {
+  width: 50%;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+
+.btn-submit {
+  -webkit-appearance: button;
+  cursor: pointer;
+  height: 35px;
+  border-radius: 10px;
+  color: white;
+  background-color: #555;
+  border: none;
+  font-size: 15px;
+}
+
+.btn-submit:focus {
+  outline: none;
+}
+
+.email {
+  border-style: solid;
+  border-top-width: 0;
+  border-left-width: 0;
+  border-right-width: 0;
+  height: 30px;
+  border-bottom-color: lightgray;
+  width: 290px;
+  padding-top: 3px;
+  padding-bottom: 2px;
+  border-radius: 10px;
+  color: #555;
+  font-size: 15px;
+  text-align: center;
+  transition: all 0.2s ease-in-out;
+}
+.email:hover {
+  border-bottom-color: #1976d2;
+  transition: all 0.2s ease-in-out;
+}
+.email:focus {
+  border-bottom-color: #1976d2;
+  transition: all 0.2s ease-in-out;
+  outline: none;
+  background-color: white;
 }
 
 /* ==========================================================================

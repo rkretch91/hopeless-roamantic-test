@@ -1,7 +1,7 @@
 ---
 title: Two Sides to Bishkek, Kyrgyzstan
 date: 2015-05-16
-tags: Kyrgyzstan, Bishkek, Ala-Archa, Soviet, Nature, Rural, Urban, Story
+tags: Kyrgyzstan, Bishkek, Ala-Archa, Soviet, Nature, Travel, Rural, Urban, Story
 cover: kyrgyzstan-Bishkek-Osh-Bazaar-1.jpg
 layout: post
 ---

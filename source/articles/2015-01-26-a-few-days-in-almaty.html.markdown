@@ -1,7 +1,7 @@
 ---
 title: A Few Days in Almaty
 date: 2015-01-26
-tags: Almaty, Kazakhstan, China, City, Weekends Away
+tags: Almaty, Kazakhstan, China, City, Weekends Away, Travel
 cover: Kazakhstan-Almaty-Paniflov-Park-3.jpg
 layout: post
 ---
