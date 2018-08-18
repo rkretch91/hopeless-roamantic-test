@@ -51,3 +51,9 @@
 
     };
 })(jQuery);
+
+document.getElementById("email-form").addEventListener('submit',function(e) {
+    e.preventDefault();
+    document.getElementById('success-message').innerHTML = "<p style='font-size: 15px;'><em>Thank you for subscribing!</em></p>"
+    e.target.style.display = "none";
+});
