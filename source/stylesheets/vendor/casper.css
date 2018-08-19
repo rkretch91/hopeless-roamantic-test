@@ -2283,7 +2283,7 @@ path:hover {
   transition: all 0.2s ease-in-out;
 }
 .email:hover {
-  border-bottom-color: #1976d2;
+  border-bottom-color: lightgray;
   transition: all 0.2s ease-in-out;
 }
 .email:focus {
