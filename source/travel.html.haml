@@ -20,3 +20,10 @@ cover: manila-tondo-train.jpg
 %main#content.content{role: :main}
   = partial('shared/travel_articles',
             locals: { page_articles: page_articles, paginate: paginate })
+.sign-up
+  %h2 Sign Up
+  %p Are you the type to get lost in travel planning at work? If you need some travel inspiration, subscribe below for stories, tips and more. I promise I won't overload your mailbox with bullshit.
+  %form#email-form{:method => "POST", :'data-netlify' => "true"}
+    %input.email{:name => "email", :type => "text"}/
+    %input.btn-submit{:type => "submit", :value => "Subscribe"}/
+  %p#success-message
