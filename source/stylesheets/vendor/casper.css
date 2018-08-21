@@ -2224,13 +2224,13 @@ path:hover {
 .sign-up {
   text-align: center;
   padding: 30px;
-  background-color: #3fc8fd;
+  background-color: #fbfbfb;
   height: auto;
-  color: white;
+  color: #555;
 }
 
 .sign-up h2 {
-  color: white;
+  color: #555;
 }
 
 .sign-up p {
@@ -2244,7 +2244,7 @@ path:hover {
   -webkit-appearance: button;
   cursor: pointer;
   height: 35px;
-  border-radius: 10px;
+  border-radius: 2px;
   color: white;
   background-color: #555;
   border: none;
@@ -2267,16 +2267,16 @@ path:hover {
 }
 
 .email {
-  border-style: solid;
+  border-style: dotted;
   border-top-width: 0;
   border-left-width: 0;
   border-right-width: 0;
   height: 30px;
-  border-bottom-color: lightgray;
+  border-color: lightgray;
   width: 290px;
   padding-top: 3px;
   padding-bottom: 2px;
-  border-radius: 10px;
+  background-color: #fbfbfb;
   color: #555;
   font-size: 15px;
   text-align: center;
@@ -2287,10 +2287,14 @@ path:hover {
   transition: all 0.2s ease-in-out;
 }
 .email:focus {
-  border-bottom-color: #1976d2;
+  border-bottom-color: #555;
+  border: none;
   transition: all 0.2s ease-in-out;
   outline: none;
-  background-color: white;
+  background-color: #fbfbfb;
+  border-top-width: 0;
+  border-left-width: 0;
+  border-right-width: 0;
 }
 
 /* ==========================================================================
