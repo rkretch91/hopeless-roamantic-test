@@ -860,7 +860,7 @@ body.nav-opened .nav {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     display: block;
-    height: 100px;
+    height: 120px;
     padding: 1px 0 5px 0;
     width: auto;
 }
@@ -1918,7 +1918,7 @@ body.page-template .post-title {
 
     .main-header {
         margin-bottom: 15px;
-        height: 40vh;
+        height: 100vh;
     }
 
     .no-cover.main-header {
@@ -1941,7 +1941,7 @@ body.page-template .post-title {
     }
 
     .blog-logo img {
-        height: 70px;
+        height: 100px;
     }
 
     .menu-button {
