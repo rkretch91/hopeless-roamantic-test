@@ -6,7 +6,7 @@ config[:casper] = {
   blog: {
     url: 'http://www.thehopelessroamantic.com',
     name: 'The Hopeless Roamantic',
-    description: 'Makes developing websites simple.',
+    description: 'Making travel a daily part of your life',
     date_format: '%d %B %Y',
     navigation: true,
     logo: 'the-hopeless-roamantic-logo.png' # Optional
