@@ -2304,6 +2304,37 @@ path:hover {
   border-right-width: 0 !important;
 }
 
+.email2 {
+  border-style: dotted !important;
+  border-top-width: 0;
+  border-left-width: 0;
+  border-right-width: 0;
+  height: 30px;
+  border-color: #555;
+  width: 290px;
+  padding-top: 3px;
+  padding-bottom: 2px;
+  background-color: #white;
+  color: #555;
+  font-size: 15px;
+  text-align: center;
+  transition: all 0.2s ease-in-out;
+}
+.email2:hover {
+  border-bottom-color: #555;
+  transition: all 0.2s ease-in-out;
+}
+.email2:focus {
+  border-bottom-color: #555;
+  border-style: dotted !important;
+  transition: all 0.2s ease-in-out;
+  outline: none !important;
+  background-color: #white !important;
+  border-top-width: 0 !important;
+  border-left-width: 0 !important;
+  border-right-width: 0 !important;
+}
+
 /* ==========================================================================
    15. Animations
    ========================================================================== */

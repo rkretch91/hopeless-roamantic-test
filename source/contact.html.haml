@@ -12,19 +12,15 @@ cover: ryan-jumping-excited.jpg
     - if blog_settings.navigation
       %a.menu-button.icon-menu{href: '#'}
         %span.word Menu
-
-%section.author-profile.inner
-  - if gravatar?
-    %figure.author-image
-      .img{style: "background-image: url(#{gravatar(114)})"}
-        %span.hidden #{blog_author.name}'s Picture
-  %h1.author-title Contact Me
-  %form{:method => "POST", :'data-netlify' => "true"}
-    .input-group
-      %input.btn.btn-lg{:type => "name", name: "name", placeholder: "Your Name"}
-      %br/
-      %input.btn.btn-lg{:type => "email", name: "email", placeholder: "Your Email"}
-      %br/
-      %input{:type => "text", name: "message", placeholder: "Your Message"}
-      %br/
-      %button.btn.btn-info.btn-lg{type: "submit"} Submit
+.sign-up{style: "background-color: white;"}
+  %h2 Get in Touch with The Hopeless Roamantic!
+  .form-div{style: "width: 300px; margin: 0 auto;"}
+    %form#email-form{:method => "POST", :'data-netlify' => "true"}
+      %input.email2{:name => "name", :type => "text", style: "margin-top: 20px;"}/
+      %p Name
+      %input.email2{:name => "email", :type => "text"}/
+      %p Email
+      / %input.email2{:name => "message", :type => "text", style: "padding-top: 50px;"}/
+      %textarea.email2{:name => "message", :cols => "30", :rows => "10", style: "height: 100px;"}
+      %p Message
+      %input.btn-submit{:type => "submit", :value => "Subscribe"}/
