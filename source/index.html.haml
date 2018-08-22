@@ -19,8 +19,16 @@ cover: trailer.jpg
   %a.scroll-down.icon-arrow-left{href: '#content', data: {offset: '-45'}}
     %span.hidden Scroll Down
 
-
+%section.author-profile.inner
+  %h1.author-title Get Hopelessly Lost in this Incredible World
+  = image_tag "lost-02-01.png", height: '150'
+  %p
+    %em I am the Hopeless Roamantic and my utmost goals are A) to get you 'hopelessly lost' through endless travel storytelling and, B) to help make travel a value and freedom that you live by on the daily.
+    %br
+    %br
+      %em Go on...and experience this world.
 %main#content.content{role: :main}
+  %h1.author-title{style: "text-align: center;"}= "Latest Adventures"
   = partial('shared/page_articles',
             locals: { page_articles: page_articles, paginate: paginate })
 .map
