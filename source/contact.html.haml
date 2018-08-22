@@ -13,14 +13,19 @@ cover: ryan-jumping-excited.jpg
       %a.menu-button.icon-menu{href: '#'}
         %span.word Menu
 .sign-up{style: "background-color: white;"}
-  %h2 Get in Touch with The Hopeless Roamantic!
-  .form-div{style: "width: 300px; margin: 0 auto;"}
-    %form#contact-form{:method => "POST", :'data-netlify' => "true"}
-      %input.email2{:name => "name", :type => "text", style: "margin-top: 20px;"}/
-      %p Name
-      %input.email2{:name => "email", :type => "text"}/
-      %p Email
-      / %input.email2{:name => "message", :type => "text", style: "padding-top: 50px;"}/
-      %textarea.email2{:name => "message", :cols => "30", :rows => "10", style: "height: 100px;"}
-      %p Message
+  %h2{style: "margin-bottom: 50px;"} Get in Touch with The Hopeless Roamantic!
+  .form-div{style: "width: 350px; margin: 0 auto;"}
+    %form#contact-form{:method => "POST", :'data-netlify' => "true", :name => "contact-form"}
+      %p{style: "text-align: left;"}
+        %label
+          Name
+          %input.email2{:name => "name", :type => "text"}/
+      %p{style: "text-align: left;"}
+        %label
+          Email
+          %input.email2{:name => "email", :type => "text"}/
+      %p{style: "text-align: left;"}
+        %label
+          Message
+          %textarea.email2{:name => "message", :cols => "30", :rows => "10", style: "height: 100px;"}
       %input.btn-submit{:type => "submit", :value => "Subscribe"}/

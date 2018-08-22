@@ -36,7 +36,7 @@ cover: trailer.jpg
 .sign-up
   %h2 Subscribe
   %p Are you the type to get lost in travel planning at work? If you need some travel inspiration, subscribe below for stories, tips and more. I promise I won't overload your mailbox with bullshit.
-  %form#email-form{:method => "POST", :'data-netlify' => "true"}
+  %form#email-form{:method => "POST", :'data-netlify' => "true", name: "email-form"}
     %input.email{:name => "email", :type => "text"}/
     %input.btn-submit{:type => "submit", :value => "Subscribe"}/
   %p#success-message
