@@ -9,12 +9,12 @@
     %meta{name: 'HandheldFriendly', content: 'True'}
 
     %script{:async => "", :src => "https://www.googletagmanager.com/gtag/js?id=UA-124395390-1"}
-      :javascript
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+    :javascript
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-        gtag('config', 'UA-124395390-1');
+      gtag('config', 'UA-124395390-1');
 
     -# Open Graph Tags
     %meta{property: "og:site_name", content: blog_settings.name}
