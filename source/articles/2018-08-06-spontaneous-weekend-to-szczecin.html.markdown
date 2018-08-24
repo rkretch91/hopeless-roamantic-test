@@ -1,10 +1,12 @@
 ---
 title: Spontaneous Weekend in Szczecin, Poland
 date: 2018-08-06
-tags: Poland, Szczecin, Eastern Europe, Europe, Weekend Trips, Off the beaten track, Urban, Rural, Spontaneity, Travel
+tags: Poland, Szczecin, Eastern Europe, Europe, Weekends Away, Weekend Trips, Off the beaten track, Urban, Rural, Spontaneity, Travel
 cover: szczecin.jpg
 layout: post
 ---
+
+[![Weekends](https://res.cloudinary.com/dofuzeof4/image/upload/v1535135600/The%20Hopeless%20Roamantic/youtube/Screen_Shot_2018-08-24_at_8.32.50_PM.png)](https://youtu.be/EEOMtloPpDk)
 
 <span class="first-letter">I</span>t’s Sunday sunset time and I am sitting back on a [Flixbus](https://www.flixbus.com/) having just passed back over the Polish-German Border into a bucolic, wind turbine-infested Germany. Part of me is craving the craziness and liveliness of my life in Berlin, but most of me is still floating in [Szczecin](https://wikitravel.org/en/Szczecin), a totally different world (which has one too many consonants to pronounce) just two hours from the German capital.
 
