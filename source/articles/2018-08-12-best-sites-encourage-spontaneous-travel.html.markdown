@@ -1,7 +1,7 @@
 ---
 title: The Best Sites to Encourage Spontaneous Travel
 date: 2018-08-12
-tags: Travel, Spontaneity, Flying
+tags: Travel, Spontaneity, Flying, Inspiration, Tips
 cover: spontaneous-travel.jpg
 layout: post
 ---

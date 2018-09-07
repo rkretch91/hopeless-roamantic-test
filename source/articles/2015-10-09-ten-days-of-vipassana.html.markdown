@@ -1,7 +1,7 @@
 ---
 title: Ten(ish) Days of Vipassana Meditation
 date: 2015-10-09
-tags: India, Jodhpur, Meditation, Anxiety, Life, Rural, Travel, Vipassana
+tags: India, Jodhpur, Meditation, Anxiety, Life, Rural, Travel, Inspiration, Vipassana
 cover: vipassana-escape.jpg
 layout: post
 ---

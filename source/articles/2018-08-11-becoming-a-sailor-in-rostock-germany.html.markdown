@@ -1,7 +1,7 @@
 ---
 title: Become a Sailor for a Night (and Day) in Rostock, Germany
 date: 2018-08-11
-tags: Travel, Boats, Germany, Rostock, Weekend Trips, Ocean
+tags: Travel, Boats, Germany, Rostock, Weekend Trips, Ocean, Stories
 cover: rostock-sailing-baltic.jpg
 layout: post
 ---
