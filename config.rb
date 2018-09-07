@@ -39,8 +39,6 @@ config[:casper] = {
   navigation: {
     "Home" => "/",
     "About" => "/about",
-    "Travel" => "/travel",
-    "Life" => "/life",
     "Contact" => "/contact"
   }
 }
