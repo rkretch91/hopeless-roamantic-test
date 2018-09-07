@@ -58,54 +58,54 @@ document.getElementById("email-form").addEventListener('submit',function(e) {
 });
 
 
-function changeAction() {
-    let type = document.getElementById("travel-form");
-    let random = document.getElementById("travel-type");
-    switch (random.selectedIndex) {
-    case 1:
-      createDestinationForm();
-      break;
-    case 2:
-      type.action = "/tag/inspiration/";
-      type.submit();
-      break;
-    case 3:
-      console.log("hi");
-      type.action = "/tag/stories/";
-      type.submit();
-      break;
-    case 4:
-      type.action = "/tag/tips/";
-      type.submit();
-      break;
-    }
-  }
+// function changeAction() {
+//     let type = document.getElementById("travel-form");
+//     let random = document.getElementById("travel-type");
+//     switch (random.selectedIndex) {
+//     case 1:
+//       createDestinationForm();
+//       break;
+//     case 2:
+//       type.action = "/tag/inspiration/";
+//       type.submit();
+//       break;
+//     case 3:
+//       console.log("hi");
+//       type.action = "/tag/stories/";
+//       type.submit();
+//       break;
+//     case 4:
+//       type.action = "/tag/tips/";
+//       type.submit();
+//       break;
+//     }
+//   }
 
-  function createDestinationForm() {
-    let destForm = `<h4>Which Country?</h4><form action="/" method="post" name="destination" id="dest-picker">
-      <select name="countries" id="select-countries" onchange="countryPick()" class="travel-style">
-        <option value=""></option>
-        <option value="germany">Germany</option>
-        <option value="india">India</option>
-        <option value="kazakhstan">Kazakhstan</option>
-        <option value="kyrgyzstan">Kyrgyzstan</option>
-        <option value="poland">Poland</option>
-        <option value="turkey">Turkey</option>
-      </select>
-      <input type="submit" value="Explore" class="btn-submit" style="margin-top: 20px;"></input>
-    </form>`;
-    document.querySelector(".country-form").innerHTML = destForm;
-  }
+//   function createDestinationForm() {
+//     let destForm = `<h4>Which Country?</h4><form action="/" method="post" name="destination" id="dest-picker">
+//       <select name="countries" id="select-countries" onchange="countryPick()" class="travel-style">
+//         <option value=""></option>
+//         <option value="germany">Germany</option>
+//         <option value="india">India</option>
+//         <option value="kazakhstan">Kazakhstan</option>
+//         <option value="kyrgyzstan">Kyrgyzstan</option>
+//         <option value="poland">Poland</option>
+//         <option value="turkey">Turkey</option>
+//       </select>
+//       <input type="submit" value="Explore" class="btn-submit" style="margin-top: 20px;"></input>
+//     </form>`;
+//     document.querySelector(".country-form").innerHTML = destForm;
+//   }
 
-  function countryPick(event) {
-    let type = document.getElementById("dest-picker");
-    let random = document.getElementById("select-countries");
-    if (random.value != "") {
-      type.action = `/tag/${random.value}/`;
-    } else {
-      event.preventDefault();
-      return false;
-    }
-  }
+//   function countryPick(event) {
+//     let type = document.getElementById("dest-picker");
+//     let random = document.getElementById("select-countries");
+//     if (random.value != "") {
+//       type.action = `/tag/${random.value}/`;
+//     } else {
+//       event.preventDefault();
+//       return false;
+//     }
+//   }
 
 
