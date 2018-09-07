@@ -83,6 +83,7 @@ cover: ushguli-georgia.jpg
     let destForm = `<h4>Which Country?</h4><form action="/" method="get" name="destination" id="dest-picker">
       <select name="countries" id="select-countries" onchange="countryPick()" class="travel-style">
         <option value=""></option>
+        <option value="china">China</option>
         <option value="germany">Germany</option>
         <option value="india">India</option>
         <option value="kazakhstan">Kazakhstan</option>
@@ -99,6 +100,9 @@ cover: ushguli-georgia.jpg
     let type = document.getElementById("dest-picker");
     let random = document.getElementById("select-countries");
     switch (random.value) {
+      case "china":
+        type.action = "#{tag_path('china')}";
+        break;
       case "germany":
         type.action = "#{tag_path('germany')}";
         break;
