@@ -82,9 +82,10 @@ function changeAction() {
   }
 
   function createDestinationForm() {
-    let destForm = `<h4>Which Country?</h4><form action="/" method="post" name="destination" id="dest-picker">
+    let destForm = `<h4>Which Country?</h4><form action="/" method="get" name="destination" id="dest-picker">
       <select name="countries" id="select-countries" onchange="countryPick()" class="travel-style">
-        <option value=""></option>
+        <option value="" disabled selected>Select Here</option>
+        <option value="china">China</option>
         <option value="germany">Germany</option>
         <option value="india">India</option>
         <option value="kazakhstan">Kazakhstan</option>
