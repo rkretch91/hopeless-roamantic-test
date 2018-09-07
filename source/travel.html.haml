@@ -17,6 +17,20 @@ cover: manila-tondo-train.jpg
   %h1.author-title= "Travel"
   %h5{style: "color:grey; font-weight: lighter;"}= "Where would you like to become hopelessly roamantic?"
   = partial('shared/map')
+
+/ .sign-up{style: "background-color: white;"}
+/   .form-div{style: "width: 300px; margin: 0 auto;"}
+/     %form#travel-form{:method => "POST", :'data-netlify' => "true", :name => "travelType", action: "/"}
+/       %p{style: "text-align: left; width: 100%;"}
+/         %label
+/           What are you looking for?
+/           %select#travel-type{:name => "travel", :onchange => "changeAction()"}
+/             %option{:value => "destinations"} Destinations
+/             %option{:value => "inspiration"} Inspiration
+/             %option{:value => "stories"} Stories
+/             %option{:value => "tips"} Tips
+
+
 %main#content.content{role: :main}
   = partial('shared/travel_articles',
             locals: { page_articles: page_articles, paginate: paginate })
@@ -27,3 +41,5 @@ cover: manila-tondo-train.jpg
     %input.email{:name => "email", :type => "text"}/
     %input.btn-submit{:type => "submit", :value => "Subscribe"}/
   %p#success-message
+
+

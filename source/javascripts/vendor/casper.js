@@ -56,3 +56,16 @@ document.getElementById("email-form").addEventListener('submit',function(e) {
     document.getElementById('success-message').innerHTML = "<p style='font-size: 15px;'><em>Thank you for subscribing!</em></p>"
     e.target.style.display = "none";
 });
+
+
+function changeAction() {
+    let type = document.getElementById("travel-form");
+    let random = document.getElementById("travel-type");
+    if (random.selectedIndex = 0) {
+      type.action = "/facebook.com";
+      type.submit();
+    } else if (random.selectedIndex = 1) {
+      type.action = "https://www.youtube.com";
+      type.submit();
+    }
+  }
