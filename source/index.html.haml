@@ -30,7 +30,7 @@ cover: ushguli-georgia.jpg
   .travel-filter{style: "background-color: white; margin: 20% 0;"}
     %h3 What do you want to see?
     .form-div{style: "width: 300px; margin: 0 auto;"}
-      %form#travel-form{:method => "POST", :name => "travelType", action: "/"}
+      %form#travel-form{:method => "get", :name => "travelType", action: "/"}
         %p{style: "text-align: left; width: 100%;"}
           %label
             %select#travel-type.travel-style{:name => "travel", :onchange => "changeAction()"}
@@ -80,7 +80,7 @@ cover: ushguli-georgia.jpg
   }
 
   function createDestinationForm() {
-    let destForm = `<h4>Which Country?</h4><form action="/" method="post" name="destination" id="dest-picker">
+    let destForm = `<h4>Which Country?</h4><form action="/" method="get" name="destination" id="dest-picker">
       <select name="countries" id="select-countries" onchange="countryPick()" class="travel-style">
         <option value=""></option>
         <option value="germany">Germany</option>
