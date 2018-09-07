@@ -1,7 +1,7 @@
 ---
 title: Spontaneous Weekend in Szczecin, Poland
 date: 2018-08-06
-tags: Poland, Szczecin, Eastern Europe, Europe, Weekends Away, Weekend Trips, Off the beaten track, Urban, Rural, Spontaneity, Travel
+tags: Poland, Szczecin, Eastern Europe, Europe, Weekends Away, Weekend Trips, Off the beaten track, Urban, Rural, Spontaneity, Travel, Stories
 cover: szczecin.jpg
 layout: post
 ---

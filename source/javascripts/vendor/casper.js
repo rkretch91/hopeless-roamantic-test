@@ -75,7 +75,7 @@ function changeAction() {
       type.submit();
       break;
     case 4:
-      type.action = "/tag/kyrgyzstan/";
+      type.action = "/tag/tips/";
       type.submit();
       break;
     }
@@ -86,7 +86,11 @@ function changeAction() {
       <select name="countries" id="select-countries" onchange="countryPick()" class="travel-style">
         <option value=""></option>
         <option value="germany">Germany</option>
+        <option value="india">India</option>
         <option value="kazakhstan">Kazakhstan</option>
+        <option value="kyrgyzstan">Kyrgyzstan</option>
+        <option value="poland">Poland</option>
+        <option value="turkey">Turkey</option>
       </select>
       <input type="submit" value="Explore" class="btn-submit" style="margin-top: 20px;"></input>
     </form>`;

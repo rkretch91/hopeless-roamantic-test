@@ -1,7 +1,7 @@
 ---
 title: Tips for Surviving Flight Anxiety Before and During a Flight
 date: 2018-08-08
-tags: Travel, Flying, Anxiety, Life, Flight Anxiety
+tags: Travel, Flying, Anxiety, Life, Flight Anxiety, Tips
 cover: flight-anxiety.jpg
 layout: post
 ---
