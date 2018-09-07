@@ -147,6 +147,9 @@ td, th{ padding: 0; }
 .icon-facebook:before {
     content: "\f604";
 }
+.icon-youtube:before {
+    content: "\f167";
+}
 .icon-arrow-left:before {
     content: "\f605";
 }
