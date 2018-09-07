@@ -18,17 +18,19 @@ cover: manila-tondo-train.jpg
   %h5{style: "color:grey; font-weight: lighter;"}= "Where would you like to become hopelessly roamantic?"
   = partial('shared/map')
 
-/ .sign-up{style: "background-color: white;"}
-/   .form-div{style: "width: 300px; margin: 0 auto;"}
-/     %form#travel-form{:method => "POST", :'data-netlify' => "true", :name => "travelType", action: "/"}
-/       %p{style: "text-align: left; width: 100%;"}
-/         %label
-/           What are you looking for?
-/           %select#travel-type{:name => "travel", :onchange => "changeAction()"}
-/             %option{:value => "destinations"} Destinations
-/             %option{:value => "inspiration"} Inspiration
-/             %option{:value => "stories"} Stories
-/             %option{:value => "tips"} Tips
+.travel-filter{style: "background-color: white;"}
+  %h3 What do you want to see?
+  .form-div{style: "width: 300px; margin: 0 auto;"}
+    %form#travel-form{:method => "POST", :name => "travelType", action: "/"}
+      %p{style: "text-align: left; width: 100%;"}
+        %label
+          %select#travel-type.travel-style{:name => "travel", :onchange => "changeAction()"}
+            %option{:value => " "}
+            %option{:value => "destinations"} Destinations
+            %option{:value => "inspiration"} Inspiration
+            %option{:value => "stories"} Stories
+            %option{:value => "tips"} Tips
+  .country-form{style: "width: 300px; margin: 0 auto;"}
 
 
 %main#content.content{role: :main}

@@ -1,6 +1,6 @@
 ---
 pageable: true
-per_page: 6
+per_page: 4
 cover: ushguli-georgia.jpg
 ---
 
@@ -27,12 +27,25 @@ cover: ushguli-georgia.jpg
     %br
     %br
       %em Go on...and experience this world.
+  .travel-filter{style: "background-color: white; margin: 20% 0;"}
+    %h3 What do you want to see?
+    .form-div{style: "width: 300px; margin: 0 auto;"}
+      %form#travel-form{:method => "POST", :name => "travelType", action: "/"}
+        %p{style: "text-align: left; width: 100%;"}
+          %label
+            %select#travel-type.travel-style{:name => "travel", :onchange => "changeAction()"}
+              %option{:value => " "}
+              %option{:value => "destinations"} Destinations
+              %option{:value => "inspiration"} Inspiration
+              %option{:value => "stories"} Stories
+              %option{:value => "tips"} Tips
+    .country-form{style: "width: 300px; margin: 0 auto;"}
+  .map
+    = partial('shared/map')
 %main#content.content{role: :main}
-  %h1.author-title{style: "text-align: center;"}= "Latest Adventures"
+  %h3.author-title{style: "text-align: center;"}= "Latest Adventures"
   = partial('shared/page_articles',
             locals: { page_articles: page_articles, paginate: paginate })
-.map
-  = partial('shared/map')
 .sign-up
   %h2 Subscribe
   %p Are you the type to get lost in travel planning at work? If you need some travel inspiration, subscribe below for stories, tips and more. I promise I won't overload your mailbox with bullshit.

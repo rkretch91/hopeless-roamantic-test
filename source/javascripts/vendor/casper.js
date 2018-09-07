@@ -61,11 +61,47 @@ document.getElementById("email-form").addEventListener('submit',function(e) {
 function changeAction() {
     let type = document.getElementById("travel-form");
     let random = document.getElementById("travel-type");
-    if (random.selectedIndex = 0) {
-      type.action = "/facebook.com";
+    switch (random.selectedIndex) {
+    case 1:
+      createDestinationForm();
+      break;
+    case 2:
+      type.action = "/tag/inspiration/";
       type.submit();
-    } else if (random.selectedIndex = 1) {
-      type.action = "https://www.youtube.com";
+      break;
+    case 3:
+      console.log("hi");
+      type.action = "/tag/stories/";
       type.submit();
+      break;
+    case 4:
+      type.action = "/tag/kyrgyzstan/";
+      type.submit();
+      break;
     }
   }
+
+  function createDestinationForm() {
+    let destForm = `<h4>Which Country?</h4><form action="/" method="post" name="destination" id="dest-picker">
+      <select name="countries" id="select-countries" onchange="countryPick()" class="travel-style">
+        <option value=""></option>
+        <option value="germany">Germany</option>
+        <option value="kazakhstan">Kazakhstan</option>
+      </select>
+      <input type="submit" value="Explore" class="btn-submit" style="margin-top: 20px;"></input>
+    </form>`;
+    document.querySelector(".country-form").innerHTML = destForm;
+  }
+
+  function countryPick(event) {
+    let type = document.getElementById("dest-picker");
+    let random = document.getElementById("select-countries");
+    if (random.value != "") {
+      type.action = `/tag/${random.value}/`;
+    } else {
+      event.preventDefault();
+      return false;
+    }
+  }
+
+
