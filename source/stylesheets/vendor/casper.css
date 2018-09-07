@@ -1333,6 +1333,7 @@ body.page-template .post-title {
     text-align: center;
 }
 
+
 /* Add a little circle in the middle of the border-bottom */
 .author-profile:after {
     display: block;
@@ -2346,6 +2347,38 @@ input:-webkit-autofill:active {
   border-right-width: 0 !important;
 }
 
+.travel-filter {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.travel-filter h3, h4 {
+  color: #555;
+}
+
+.travel-style {
+  width: 250px !important;
+  border-bottom: 1px dotted #555;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  width: 100% !important;
+  background-color: white;
+}
+
+.travel-style:focus {
+  outline: none;
+}
+
+select {
+  -webkit-appearance: none;
+  -webkit-border-radius: 0px;
+  color: #555;
+}
+
+.country-form:focus {
+  outline: none;
+}
 /* ==========================================================================
    15. Animations
    ========================================================================== */
