@@ -52,10 +52,11 @@
     };
 })(jQuery);
 
-document.getElementById("email-form").addEventListener('submit',function(e) {
-    document.getElementById('success-message').innerHTML = "<p style='font-size: 15px;'><em>Thank you for subscribing!</em></p>"
-    e.target.style.display = "none";
-});
+// document.getElementById("email-form").addEventListener('submit',function(e) {
+
+//     document.getElementById('success-message').innerHTML = "<p style='font-size: 15px;'><em>Thank you for subscribing!</em></p>"
+//     e.target.style.display = "none";
+// });
 
 
 function changeAction() {
@@ -105,8 +106,35 @@ function changeAction() {
       type.action = `/tag/${random.value}/`;
     } else {
       event.preventDefault();
-      return false;
     }
+    return false;
   }
 
 
+
+
+//Validate that form has proper email
+function validateEmail(email) {
+  const re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+  return re.test(email);
+}
+
+
+function validate(event) {
+  const result = document.getElementById('success-message');
+  const email = document.getElementById('email-entry').value;
+  const form = document.getElementById('email-form');
+
+  if (validateEmail(email)) {
+    result.innerHTML = email + " is valid! Thanks for signing up.";
+    result.style.color = "#3fc8fd";
+    setTimeout(function(){form.submit()}, 1000);
+  } else {
+    result.innerHTML = email + " is not valid. Please re-enter.";
+    result.style.color = "red";
+    event.preventDefault();
+    return false
+  }
+}
+
+document.getElementById("email-form").addEventListener('submit', validate)
