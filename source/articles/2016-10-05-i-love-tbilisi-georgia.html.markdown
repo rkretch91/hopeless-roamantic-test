@@ -18,16 +18,19 @@ We lasted an hour or two before hunger overcame us, and we roamed the streets in
 
 A little aside, Georgian food goes down as one of my favorite cuisines in the world, something that even two years later I try to replicate in my own kitchen. It is the perfect mix of healthy (lots of garlic-walnut paste) yet artery-clogging (cheese, cheese, and meat). My favorite Georgian staples include Pkhali - fried eggplant spread with a garlic-walnut paste and pomegranate seeds, Khachipuri - doughy, soft bread with unreal amounts of cheese melted inside or outside (sometimes with a raw egg cracked on top), Khinkali - huge dumplings with pork filling (not as flavorful as the one’s in China, but I can keep eating these nonetheless), and Lobio - red beans over-cooked to perfection and served with a side of cornbread. The dishes reflect Georgia’s unique culture with tiny hints of neighboring and Europe and Asia showing through in flavor and style.
 
+![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967972/The%20Hopeless%20Roamantic/tbilisi-georgia/lobio.jpg)
+<center><p style="font-size: .6em;">Lobio (beans)</p></center>
 ![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967972/The%20Hopeless%20Roamantic/tbilisi-georgia/peasant-salad.jpg)
 <center><p style="font-size: .6em;">Peasant's Salad with a walnut-garlic dressing</p></center>
 ![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967972/The%20Hopeless%20Roamantic/tbilisi-georgia/khinkali.jpg)
 <center><p style="font-size: .6em;">Khinkali (dumplings with pork inside)</p></center>
-![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967972/The%20Hopeless%20Roamantic/tbilisi-georgia/lobio.jpg)
-<center><p style="font-size: .6em;">Lobio (beans)</p></center>
 ![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967972/The%20Hopeless%20Roamantic/tbilisi-georgia/ojakhuri.jpg)
 <center><p style="font-size: .6em;">Ojakhuri (Mushrooms with cheese)</p></center>
 ![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967972/The%20Hopeless%20Roamantic/tbilisi-georgia/khachipuri.jpg)
 <center><p style="font-size: .6em;">Khachipuri (bread with tons of cheese inside and out)</p></center>
+The%20Hopeless%20Roamantic/tbilisi-georgia/pastries.jpg)
+![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967958/The%20Hopeless%20Roamantic/tbilisi-georgia/Churchkhela.jpg)
+<center><p style="font-size: .6em;">Churchkela (Sweets made from grape, flour, and nuts) (bread with tons of cheese inside and out)</p></center>
 
 
 #####Losing ourselves in the diverse city-scape, Georgian Orthodox churches, and hillsides of Tbilisi (we found The Mother)
@@ -40,13 +43,23 @@ We woke up from a food coma and strolled without aim around the incredible city 
 ![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967972/The%20Hopeless%20Roamantic/tbilisi-georgia/architecture-David-Agmashenebeli-4.jpg)
 ![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967972/The%20Hopeless%20Roamantic/tbilisi-georgia/architecture-David-Agmashenebeli-5.jpg)
 ![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967972/The%20Hopeless%20Roamantic/tbilisi-georgia/architecture-David-Agmashenebeli-6.jpg)
-![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967972/The%20Hopeless%20Roamantic/tbilisi-georgia/pastries.jpg)
 
 The morning melted into afternoon and our trek through the city continued. At one point, we ascended the stairs towards the magnificent, Holy Trinity Church, a relatively recently constructed Georgian Orthodox Church, but definitely catches the eyes nonetheless. We walked around the grounds and wandered in, only to see a Georgian wedding in progress. The ceremony was unique, with the wedding party circling around the floor complete with gorgeous and lulling live Georgian music echoing around the massive dome above. Later on, we hiked up towards the welcoming, yet simultaneously threatening statue known as “The Mother” or Kartlis Deda. From there, we looked back and got a gorgeous view of the changing leaves and all of Tbilisi.
+
+![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967956/The%20Hopeless%20Roamantic/tbilisi-georgia/holy-trinity-church.jpg)
+![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967956/The%20Hopeless%20Roamantic/tbilisi-georgia/holy-trinity-church-2.jpg)
+![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967956/The%20Hopeless%20Roamantic/tbilisi-georgia/holy-trinity-church-3.jpg)
+![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967956/The%20Hopeless%20Roamantic/tbilisi-georgia/georgian-flag.jpg)
+![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967956/The%20Hopeless%20Roamantic/tbilisi-georgia/georgian-wedding.jpg)
+![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967956/The%20Hopeless%20Roamantic/tbilisi-georgia/georgian-wedding-2.jpg)
+![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967956/The%20Hopeless%20Roamantic/tbilisi-georgia/holy-trinity-church-4.jpg)
+
 
 #####Stepping back in time in crumbling Old Tbilisi
 
 With night crawling in, we walked through the old cobblestone and crumbling infrastructure of the Old City. The magnificent thing about this Old City, is that it is truly succumbing to the elements, and it didn’t seem there was a huge effort in over-renovating some parts of it. The buildings were a mix of brick and wood, and the twilight created an eery yet magical glow on this part of the city. Each building looked like something out of an old carnival, colorful and eye-catching. The restaurant we came across by chance was called Cafe Linville, situated on the second floor of an old Georgian house, the interior is a cozy, vintage-bohemian style with quirkiness and crazy corners at every turn. Randomly running into some friends we had met earlier that day at a cafe, we all once again stuffed our faces with Cafe Linville’s take on Georgian food, combined with bottles of Georgian wine (my favorite being rosé).
+
+
 
 #####Feeling slight violation at Tbilisi’s sulfuric baths
 
@@ -58,7 +71,7 @@ The flea market on Saturdays, known as the Dry Bridge Market, is overflowing wit
 #####Ending a stint in Tbilisi with one of my favorite restaurants on the globe
 Another random restaurant encounter, but one that went down in history in my book, was during the evening of our final night in Tbilisi. After walking down David Agmashenebeli Avenue again, we spotted a cute restaurant called Barbarestan from across the street and decided to check it out. The food is a pimped up take of Georgian food, from a recipe book of 19th century duchess Barbara Jorjadze. While the influence is from two centuries ago, the food feels surprisingly modern from mouthwatering dips, to khachipuri, to roasted duck and lamb. Impressively enough, the family that runs the place also has ten children. The place was so homey and tasty, we ended up back there on our last night before flying out of Tbilisi. Completely satisfied, we wandered back to our apartment and the next morning left to explore other parts of Georgia.
 
-#####Overall impressions of Tbilisi
+####Overall impressions of Tbilisi
 This description doesn’t give the city justice at all. I am in love with every corner of it; the diversity of the architecture, the hospitality of the people, the old sandwiched with the new, the young and vibrant nightlife, and probably most notably, the food and wine. Tbilisi is a city where you can see all the centuries of Georgian history and culture come together in one place. On more than many occasions since I left, I have considered moving there and still think of it as one of my favorite cities on the planet. I overwhelmingly suggest it to anyone, so just check it out and [see why it is the year’s most exciting city](https://www.forbes.com/sites/breannawilson/2018/09/05/berlin-is-out-tbilisi-is-in-georgias-capital-is-this-years-most-exciting-city/#67216e54479d).
 
 #####More Tbilisi Inspiration
