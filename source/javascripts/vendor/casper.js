@@ -87,6 +87,7 @@ function changeAction() {
       <select name="countries" id="select-countries" onchange="countryPick()" class="travel-style">
         <option value="" disabled selected>Select Here</option>
         <option value="china">China</option>
+        <option value="georgia">Georgia</option>
         <option value="germany">Germany</option>
         <option value="india">India</option>
         <option value="kazakhstan">Kazakhstan</option>
@@ -138,3 +139,5 @@ function validate(event) {
 }
 
 document.getElementById("email-form").addEventListener('submit', validate)
+// document.getElementById("contact-form").addEventListener('submit', validate)
+
