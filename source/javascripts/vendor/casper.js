@@ -138,3 +138,5 @@ function validate(event) {
 }
 
 document.getElementById("email-form").addEventListener('submit', validate)
+// document.getElementById("contact-form").addEventListener('submit', validate)
+

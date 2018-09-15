@@ -23,9 +23,10 @@ cover: ryan-jumping-excited.jpg
       %p{style: "text-align: left; width: 100%;"}
         %label
           Email
-          %input.email2{:name => "email", :type => "text"}/
+          %input.email2{:name => "email", :type => "text", :id => "email-entry"}/
       %p{style: "text-align: left; width: 100%;"}
         %label
           Message
           %textarea.email2{:name => "message", :cols => "30", :rows => "10", style: "height: 100px;"}
       %input.btn-submit{:type => "submit", :value => "Send It!"}/
+      %p#success-message
