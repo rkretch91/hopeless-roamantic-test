@@ -86,6 +86,7 @@ function changeAction() {
     let destForm = `<h4>Which Country?</h4><form action="/" method="get" name="destination" id="dest-picker">
       <select name="countries" id="select-countries" onchange="countryPick()" class="travel-style">
         <option value="" disabled selected>Select Here</option>
+        <option value="armenia">Armenia</option>
         <option value="china">China</option>
         <option value="georgia">Georgia</option>
         <option value="germany">Germany</option>
