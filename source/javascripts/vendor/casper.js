@@ -95,6 +95,7 @@ function changeAction() {
         <option value="kyrgyzstan">Kyrgyzstan</option>
         <option value="poland">Poland</option>
         <option value="turkey">Turkey</option>
+        <option value="usa">United States</option>
       </select>
       <input type="submit" value="Explore" class="btn-submit" style="margin-top: 20px;"></input>
     </form>`;
