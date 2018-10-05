@@ -25,7 +25,12 @@ I also love that I can purchase carbon credits to offset the environmental effec
 
 I recently took a trip on Flixbus to <b>Szczecin for just 20 Euros roundtrip and a trip to Rostock for just 10!</b>
 
-####3) [Skyscanner](https://www.skyscanner.net/)
+####3) [Scott's Cheap Flights](https://scottscheapflights.com/)
+
+This one is a bit like Secret Flying, but searches entirely for flight mistakes or errors instead of deals. It is free to use, but if you want more specific search options, you can pay just $29.
+
+
+####4) [Skyscanner](https://www.skyscanner.net/)
 
 Okay, this one is a little more well-known, but if you haven’t done it yet, put in ‘Everywhere’ as your destination and see what comes up. If anything, it will start bringing up feelings of wanderlust and could even encourage you to grab your credit card and book your next getaway. Skyscanner is a major flight fare aggregator, but it’s ‘Explore’ feature lets you see destinations and dates when fares are cheapest (for the spontaneous types).
 
