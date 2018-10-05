@@ -14,7 +14,7 @@ Here they are in no particular order:
 ####1) [Secret Flying](https://www.secretflying.com/)
 This site is truly incredible and should really remain a secret (but I can’t help but blurt it out whenever I am with someone). It uses an algorithm to pull out the latest error airfares or super-cheap deals and aggregate them all together. Typically these are odd routes from and to odd airports, but major cities all over the world are in there as well. You can sign up for a daily newsletter by region, so that you can have all the deals sent to your mailbox in one go. My favorite part is that it gives me cheap as hell airfares for just a few locations, so I have constraints and don’t have to get overwhelmed about my breadth of travel locations.
 
-I recently booked a roundtrip flight on it from [<b>Berlin to Brindisi, Italy for, get this, 19 Euro</b>](https://www.secretflying.com/posts/berlin-germany-to-brindisi-italy-for-only-e19-roundtrip/). I wouldn’t have learned about what Brindisi was, had it not been for Secretflying!
+I recently booked a roundtrip flight on it from [<b>Berlin to Brindisi, Italy for, get this, 19 Euro</b>](https://www.secretflying.com/posts/berlin-germany-to-brindisi-italy-for-only-e19-roundtrip/). I wouldn’t have learned about what Brindisi was, had it not been for Secretflying! I also just booked a flight from [<b>Berlin to Los Angeles to see my sister for just 252 Euro</b>](https://www.secretflying.com/posts/german-cities-to-los-angeles-usa-from-only-e252-roundtrip/).
 
 ![When I saw my Secretflying newsletter, I got out my debit card](https://res.cloudinary.com/dofuzeof4/image/upload/v1534102326/The%20Hopeless%20Roamantic/Random/Screen_Shot_2018-08-12_at_7.54.37_PM.png)
 

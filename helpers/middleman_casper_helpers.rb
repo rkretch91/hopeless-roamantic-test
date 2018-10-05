@@ -87,6 +87,15 @@ module MiddlemanCasperHelpers
     page.data.cover.present?
   end
 
+  # def covertag(page = current_page)
+  #   if (is_tag_page?)
+  #     current_resource.metadata[:locals]['page_type'] == 'tag'
+  #     { style: "background-image: url(#{tag}.jpg)" }
+  #   else
+  #     { class: 'no-cover' }
+  #   end
+  # end
+
   def gravatar(size = 68)
     md5 = Digest::MD5.hexdigest(blog_author.gravatar_email.downcase)
     "https://www.gravatar.com/avatar/#{md5}?size=#{size}"
