@@ -32,7 +32,7 @@ This one is a bit like Secret Flying, but searches entirely for flight mistakes 
 
 ####4) [Skyscanner](https://www.skyscanner.net/)
 
-Okay, this one is a little more well-known, but if you haven’t done it yet, put in ‘Everywhere’ as your destination and see what comes up. If anything, it will start bringing up feelings of wanderlust and could even encourage you to grab your credit card and book your next getaway. Skyscanner is a major flight fare aggregator, but it’s ‘Explore’ feature lets you see destinations and dates when fares are cheapest (for the spontaneous types).
+Okay, this one is a little more well-known, but if you haven’t done it yet, put in ‘Everywhere’ as your destination and see what comes up. If anything, it will start bringing up feelings of wanderlust and could even encourage you to grab your credit card and book your next getaway. Skyscanner is a major flight fare aggregator, but its ‘Explore’ feature lets you see destinations and dates when fares are cheapest (for the spontaneous types).
 
 A few years back, I studied Skyscanner for hours and was able to book flights from Shanghai (where I was living at the time) to London that included travel time in Urumqi, China, Kazakhstan, Kyrgyzstan, and Istanbul, Turkey for a combined much cheaper than a direct flight to the UK. If you can spare the time, use this tool to find the coolest route to your destination.
 
