@@ -1,6 +1,6 @@
 ---
 title: Oktoberfest (Video)
-date: 2018-10-10
+date: 2018-10-09
 tags: Germany, Bavaria, Munich, Travel, Video, Beer, Oktoberfest
 cover: oktoberfest.jpg
 layout: post
