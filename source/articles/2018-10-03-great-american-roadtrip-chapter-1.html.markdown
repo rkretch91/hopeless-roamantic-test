@@ -6,7 +6,7 @@ cover: roadtrip.jpg
 layout: post
 ---
 
-<span class="first-letter">I</span>n the first days of 2012, four lives came together to finally leave the east coast and see what else was out there. Brother and sister, Ryan and Jessica, two nomads at heart, initiated the idea a few months earlier as a method to escape from work, school, and family stress; not really thinking something would actually materialize. A month before liftoff, the two acquired the interest of Liz, a brilliant fourth year bio engineering student with a wild side. A few weeks before liftoff, the final piece of the group came together, Ed, a French exchange student who sounded more American than French. Much to the dismay of Jess, Ed wouldn't be able to help drive, but Ryan assured her he was an asset.
+<span class="first-letter">I</span>n the first days of 2012, four lives came together to finally leave the East Coast and see what else was out there. Brother and sister, Ryan and Jessica, two nomads at heart, initiated the idea a few months earlier as a method to escape from work, school, and family stress; not really thinking something would actually materialize. A month before liftoff, the two acquired the interest of Liz, a brilliant fourth year bio engineering student with a wild side. A few weeks before liftoff, the final piece of the group came together, Ed, a French exchange student who sounded more American than French. Much to the dismay of Jess, Ed wouldn't be able to help drive, but Ryan assured her he was an asset.
 
 The stars aligned further and with the sibling's mother in the U.K. at the time, the four would be able to use her car, a lofty 4-wheel drive that would be their trusty vessel throughout the duration of the trip.
 
