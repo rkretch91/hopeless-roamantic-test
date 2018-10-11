@@ -2,7 +2,7 @@
 title: Great American Roadtrip Chapter II
 date: 2018-10-11
 tags: USA, America, Stories, Travel, Inspiration, Alabama, New Orleans, Louisiana, Roadtrip
-cover: roadtrip.jpg
+cover: roadtrip-2.jpg
 layout: post
 ---
 
