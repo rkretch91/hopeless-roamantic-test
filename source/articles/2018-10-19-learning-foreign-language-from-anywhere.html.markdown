@@ -2,7 +2,7 @@
 title: Learning a Foreign Language to Fluency from Anywhere
 date: 2018-10-19
 tags: Tips, Travel, Languages, Foreign Languages
-cover: languages.jpg
+cover: languages-2.jpg
 layout: post
 ---
 
