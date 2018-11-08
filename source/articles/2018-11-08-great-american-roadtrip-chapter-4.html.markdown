@@ -1,7 +1,7 @@
 ---
 title: Great American Roadtrip Chapter IV
 date: 2018-11-08
-tags: USA, America, Stories, Travel, Inspiration, Wild West, San Antonio, Texas, Roadtrip, Rural
+tags: USA, America, Stories, Travel, Inspiration, Wild West, San Antonio, Texas, Roadtrip, Rural, Farms
 cover: roadtrip.jpg
 layout: post
 ---
