@@ -1,5 +1,5 @@
 ---
-title: I Love Tbilisi Georgia
+title: My Love Affair with Tbilisi, Georgia
 date: 2016-10-05
 tags: Georgia, Tbilisi, Nightlife, Stories, Travel, Food, Wine, City
 cover: church-tbilisi.jpg
