@@ -28,7 +28,8 @@ A little aside, Georgian food goes down as one of my favorite cuisines in the wo
 <center><p style="font-size: .6em;">Ojakhuri (Mushrooms with cheese)</p></center>
 ![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967972/The%20Hopeless%20Roamantic/tbilisi-georgia/khachipuri.jpg)
 <center><p style="font-size: .6em;">Khachipuri (bread with tons of cheese inside and out)</p></center>
-The%20Hopeless%20Roamantic/tbilisi-georgia/pastries.jpg)
+![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967972/The%20Hopeless%20Roamantic/tbilisi-georgia/pastries.jpg)
+<center><p style="font-size: .6em;">Georgian Pastries</p></center>
 ![](https://res.cloudinary.com/dofuzeof4/image/upload/v1536967958/The%20Hopeless%20Roamantic/tbilisi-georgia/Churchkhela.jpg)
 <center><p style="font-size: .6em;">Churchkela (Sweets made from grape, flour, and nuts) (bread with tons of cheese inside and out)</p></center>
 
