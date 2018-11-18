@@ -1,7 +1,7 @@
 ---
 pageable: true
 per_page: 4
-cover: xinjiang.jpg
+cover: georgia-tbilisi.jpg
 ---
 
 %header.main-header{cover}
@@ -20,7 +20,7 @@ cover: xinjiang.jpg
     %span.hidden Scroll Down
 
 %section.author-profile.inner
-  %h1.author-title Get Hopelessly Lost With Me in this Incredible World
+  %h1.author-title Get Hopelessly Lost in this Incredible World With Me
   %br/
   = image_tag "the-hopeless-roamantic-heart-02.png", height: '150'
   .travel-filter{style: "background-color: white; margin: 50px 0;"}
@@ -36,15 +36,15 @@ cover: xinjiang.jpg
               %option{:value => "stories"} Stories
               %option{:value => "tips"} Tips
     .country-form{style: "width: 300px; margin: 0 auto;"}
-  .map
-    = partial('shared/map')
+  / .map
+  /   = partial('shared/map')
 %main#content.content{role: :main}
   %h3.author-title{style: "text-align: center;"}= "Latest Adventures"
   = partial('shared/page_articles',
             locals: { page_articles: page_articles, paginate: paginate })
 .sign-up
   %h2 Subscribe
-  %p Are you the type to get lost in travel planning at work? If you need some travel inspiration, subscribe below for stories, tips and more. I promise I won't overload your mailbox with bullshit.
+  %p Are you the type to get lost in travel planning at work? If you need some off-the-beaten-path travel inspiration, subscribe below for stories, tips and more. I promise I won't overload your mailbox with bullshit.
   %form#email-form{:method => "POST", :'data-netlify' => "true", name: "email-form"}
     %input.email{:name => "email", :type => "text", :id => "email-entry"}/
     %input.btn-submit{:type => "submit", :value => "Subscribe"}/
