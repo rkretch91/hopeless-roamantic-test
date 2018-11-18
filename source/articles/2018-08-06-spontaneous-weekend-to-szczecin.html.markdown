@@ -6,7 +6,7 @@ cover: szczecin.jpg
 layout: post
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LP4hTub0QHk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LP4hTub0QHk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen class="google-map"></iframe>
 
 <span class="first-letter">I</span>t’s Sunday sunset time and I am sitting back on a [Flixbus](https://www.flixbus.com/) having just passed back over the Polish-German Border into a bucolic, wind turbine-infested Germany. Part of me is craving the craziness and liveliness of my life in Berlin, but most of me is still floating in [Szczecin](https://wikitravel.org/en/Szczecin), a totally different world (which has one too many consonants to pronounce) just two hours from the German capital.
 

@@ -1,7 +1,7 @@
 ---
 title: Eat and Drink Like a Local in Prague
 date: 2018-11-18
-tags: Prague, Czech Republic, Travel, Foodies, Locals, Tips, Inspiration
+tags: Prague, Czech Republic, Czech, Travel, Foodies, Locals, Tips, Inspiration, Praha
 cover: prague-resto.jpg
 layout: post
 ---
