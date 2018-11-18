@@ -2315,6 +2315,13 @@ input:-webkit-autofill:active {
     transition: background-color 5000s ease-in-out 0s;
 }
 
+@media only screen and (max-width: 600px) {
+.google-map {
+  width: 380px;
+  height: 300px;
+}
+}
+
 .email2 {
   border-style: dotted !important ;
   border-top-width: 0;
