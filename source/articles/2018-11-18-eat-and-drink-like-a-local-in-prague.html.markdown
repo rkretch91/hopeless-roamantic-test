@@ -23,23 +23,23 @@ So let’s take a wander to the other parts of Prague (and admittedly a few in t
 
 ![Restaurace Na Křižovatce](https://res.cloudinary.com/dofuzeof4/image/upload/v1542557953/The%20Hopeless%20Roamantic/Prague/Screen_Shot_2018-11-18_at_5.12.29_PM.png)
 
-**Restaurace Satsang** - Kč Kč  - Located on the trendy Krymská Street, this area is still not entirely overrun by tourists and has a cool vibe at night. Our only purely vegetarian option on the list, this place had unique fusions of dishes from Thailand and Italy. You have to try the pesto polenta with grilled vegetables if you stop by, it was our favorite. Plus glasses of prosecco will not  set you back much at all!
+[**Restaurace Satsang**](https://www.facebook.com/satsangrestaurant/) - Kč Kč  - Located on the trendy Krymská Street, this area is still not entirely overrun by tourists and has a cool vibe at night. Our only purely vegetarian option on the list, this place had unique fusions of dishes from Thailand and Italy. You have to try the pesto polenta with grilled vegetables if you stop by, it was our favorite. Plus glasses of prosecco will not  set you back much at all!
 
-**Les Moules** - Kč Kč Kč - Okay, so I am a hypocrite, but we needed to try one restaurant while in the Old Town, and we are glad we came across this one. While mussels from Belgium are far from Czech fare, the amount of mussels you get for the price are astounding (it took me over 30 minutes to finish my bucket and I am a fast eater). Try the garlic bread with it and you won’t be sorry you purchased overpriced food in the Old Town.
+[**Les Moules**](http://www.lesmoules.cz/en) - Kč Kč Kč - Okay, so I am a hypocrite, but we needed to try one restaurant while in the Old Town, and we are glad we came across this one. While mussels from Belgium are far from Czech fare, the amount of mussels you get for the price are astounding (it took me over 30 minutes to finish my bucket and I am a fast eater). Try the garlic bread with it and you won’t be sorry you purchased overpriced food in the Old Town.
 
 
 #####Bars:
-**Bourgainvillea Bar & Store** - Kč Kč - Located right near our vegetarian restaurant, this is a nice little bar to pregame and relax with a super chilled out ambience of a kitchen in a house, a nice bartender, and a strong Aperol Spritz. I cannot say this is where the locals go, but I loved hanging out there, chatting, and listening to spotify.
+[**Bourgainvillea Bar & Store**](https://bougainvilleaprague.wordpress.com/) - Kč Kč - Located right near our vegetarian restaurant, this is a nice little bar to pregame and relax with a super chilled out ambience of a kitchen in a house, a nice bartender, and a strong Aperol Spritz. I cannot say this is where the locals go, but I loved hanging out there, chatting, and listening to spotify.
 
-**Bad Flash Bar** - Kč Kč - After the aforementioned bar, head up the hill to this bar which has many craft Czech beers and a mean Moscow Mule for okay prices. The waiters are attentive and charmed me into buying more drinks.
+[**Bad Flash Bar**](https://www.facebook.com/BadFlashBar/) - Kč Kč - After the aforementioned bar, head up the hill to this bar which has many craft Czech beers and a mean Moscow Mule for okay prices. The waiters are attentive and charmed me into buying more drinks.
 
-**Kolčavka Microbrewery** - Kč - On your walk around the canal from Restaurace Pragovka, you’ll come across this little gem, which is in a location only locals would ever be. It has a cool location next to the canal and the highway and boasts quite a few good beers.
+[**Kolčavka Microbrewery**](http://www.pivovarkolcavka.cz/) - Kč - On your walk around the canal from Restaurace Pragovka, you’ll come across this little gem, which is in a location only locals would ever be. It has a cool location next to the canal and the highway and boasts quite a few good beers.
 
 ![Kolčavka Microbrewery](https://res.cloudinary.com/dofuzeof4/image/upload/v1542557928/The%20Hopeless%20Roamantic/Prague/pivovar-kolcavska.jpg)
 
 **Pivovarska Nalevarna** - Kč - Another little beer-lovers’ gem, which only had locals (at least when I was there). They brew another Czech beer and prices are cheap! While this is in Old Town, it avoids any of the stereotypes of the other bars in the area.
 
-**Zombie Bar** - Kč Kč  - When you are truly wasted and all else fails, come here at the end of the night. The bartender is a nice man and the tackiness of the place is somehow charming. The best part is that a local hotdog stand and McDonald’s is right outside, so you can satisfy your nasty munchie cravings.
+[**Zombie Bar**](https://www.tripadvisor.com/Restaurant_Review-g274707-d7835857-Reviews-Zombie_Bar-Prague_Bohemia.html) - Kč Kč  - When you are truly wasted and all else fails, come here at the end of the night. The bartender is a nice man and the tackiness of the place is somehow charming. The best part is that a local hotdog stand and McDonald’s is right outside, so you can satisfy your nasty munchie cravings.
 
 **While I am not a local, I do what I can to scope out what isn’t known out there! For two days of being in Prague, I think we found some pretty incredible places and were never disappointed by any of our experiences. Judging by the map though, there are still tons of neighborhoods to explore, so feel free to comment below on your favorites.**
 
