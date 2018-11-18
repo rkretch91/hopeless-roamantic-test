@@ -1,7 +1,7 @@
 ---
-title: The Musts of Shanghai
+title: Top Things to Do in Shanghai, China
 date: 2018-10-14
-tags: China, Shanghai, Asia, Travel, Inspiration, Top, Tips
+tags: China, Shanghai, Asia, Travel, Inspiration, Top, Tips, PRC
 cover: shanghai-house.jpg
 layout: post
 ---
