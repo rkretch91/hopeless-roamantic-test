@@ -88,6 +88,7 @@ function changeAction() {
         <option value="" disabled selected>Select Here</option>
         <option value="armenia">Armenia</option>
         <option value="china">China</option>
+        <option value="czech">Czech Republic</option>
         <option value="georgia">Georgia</option>
         <option value="germany">Germany</option>
         <option value="india">India</option>
