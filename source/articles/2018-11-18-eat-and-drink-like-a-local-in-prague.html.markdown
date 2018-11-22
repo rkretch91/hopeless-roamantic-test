@@ -6,6 +6,8 @@ cover: prague-resto.jpg
 layout: post
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r6rmfnV6_tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="google-map"></iframe>
+
 Wandering around the Old Town of Prague, you will be wooed with signs bearing the words “absinthe” or “traditional czech cuisine”. You may also be tempted by the cakes with chocolate syrup and ice cream that everyone is eating (Trdelník). But in reality, these are all signs that you are in an over-touristy area of Prague and you are going to paying up the ass for something that isn’t even what the locals are eating or drinking.
 
 So let’s take a wander to the other parts of Prague (and admittedly a few in the Old Town) where you will find incredible food and drink at a much better price, and in some cases menus with only Czech (bravery or some sort of translation app is advised).
