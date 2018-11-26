@@ -83,9 +83,12 @@ module MiddlemanCasperHelpers
       { class: 'no-cover' }
     end
   end
+
   def cover?(page = current_page)
     page.data.cover.present?
   end
+
+
 
   # def covertag(page = current_page)
   #   if is_tag_page?

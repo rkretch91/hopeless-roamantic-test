@@ -1,5 +1,5 @@
 ---
-title: What to Do (and Not Do) in Eilat, Israel
+title: What to Do (and not) in Eilat, Israel
 date: 2018-11-26
 tags: Israel, Palestine, Eilat, Red Sea, Jordan, Egypt, Desert, Beach
 cover: eilat-israel-2.jpg
@@ -68,6 +68,14 @@ Hotel managers, shop-keepers, waiters, security guards...we seemed to have a run
 Just on the other side of the promenade lies the start of Aqaba, Jordan. You can go for just a few hours and check out the sharp contrast between the two cities and grab some delicious food. It is safe, but one thing to look out for is getting your passport stamped on the Jordan side. Because the border crossing is from Israel, you may jeopardize your chance of visiting countries that do not see Israel in such a good light (i.e. Lebanon, Iran, etc.) But if you ask, they should be able to stamp a paper instead.
 
 For more tips on how to arrange this, check out [this article](https://www.touristisrael.com/get-eilat-aqaba/19589/)
+
+![](https://res.cloudinary.com/dofuzeof4/image/upload/v1543262435/The%20Hopeless%20Roamantic/eilat-israel/eilat-jordan-side.jpg)
+
+![](https://res.cloudinary.com/dofuzeof4/image/upload/v1543262435/The%20Hopeless%20Roamantic/eilat-israel/eilat-jordan-side-2.jpg)
+
+![](https://res.cloudinary.com/dofuzeof4/image/upload/v1543262435/The%20Hopeless%20Roamantic/eilat-israel/eilat-jordan-side-3.jpg)
+
+![](https://res.cloudinary.com/dofuzeof4/image/upload/v1543262435/The%20Hopeless%20Roamantic/eilat-israel/eilat-jordan-side-4.jpg)
 
 #####<span style="color:green">Do</span>
 ######Get the hell out of the city and go for a hike
