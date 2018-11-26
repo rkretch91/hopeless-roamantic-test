@@ -92,6 +92,7 @@ function changeAction() {
         <option value="georgia">Georgia</option>
         <option value="germany">Germany</option>
         <option value="india">India</option>
+        <option value="israel">Israel</option>
         <option value="kazakhstan">Kazakhstan</option>
         <option value="kyrgyzstan">Kyrgyzstan</option>
         <option value="poland">Poland</option>

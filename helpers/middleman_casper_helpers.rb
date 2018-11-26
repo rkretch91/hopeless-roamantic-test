@@ -83,14 +83,17 @@ module MiddlemanCasperHelpers
       { class: 'no-cover' }
     end
   end
+
   def cover?(page = current_page)
     page.data.cover.present?
   end
 
+
+
   # def covertag(page = current_page)
-  #   if (is_tag_page?)
+  #   if is_tag_page?
   #     current_resource.metadata[:locals]['page_type'] == 'tag'
-  #     { style: "background-image: url(#{tag}.jpg)" }
+  #     { style: "background-image: url(#{image_path(tag)}.jpg)" }
   #   else
   #     { class: 'no-cover' }
   #   end
