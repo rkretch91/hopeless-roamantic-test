@@ -78,7 +78,12 @@ module MiddlemanCasperHelpers
 
   def cover(page = current_page)
     if (src = page.data.cover).present?
-      { style: "background-image: url(#{image_path(src)})" }
+      if is_tag_page? == true
+        title = "#{current_resource.metadata[:locals]['tagname']}".downcase
+        { style: "background-image: url(#{image_path(title)}.jpg)" }
+      else
+        { style: "background-image: url(#{image_path(src)})" }
+      end
     else
       { class: 'no-cover' }
     end
