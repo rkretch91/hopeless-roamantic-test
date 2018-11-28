@@ -1,7 +1,7 @@
 ---
 title: In Photos - Northern Armenia
 date: 2016-10-11
-tags: Armenia, Churches, Monasteries, Travel, Inspiration, Georgia
+tags: Armenia, Churches, Monasteries, Travel, Inspiration
 cover: https://res.cloudinary.com/dofuzeof4/image/upload/v1536967878/The%20Hopeless%20Roamantic/northern-armenia/IMG_2214.jpg
 layout: post
 ---
