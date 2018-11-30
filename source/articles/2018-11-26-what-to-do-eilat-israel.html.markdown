@@ -6,6 +6,8 @@ cover: eilat-israel-2.jpg
 layout: post
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QhSMcv_uaZ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="google-map"></iframe>
+
 Eilat, Israel’s southern-most city, is a seriously strange place in every respect. It resembles a Las Vegas, with less debauchery and wild things to do, but has the added benefit of being the Northern gateway to the Red Sea. It is surreally positioned just a few miles away from the Jordan border on one side and Egypt’s Sinai Penninsula on the other. If you somehow find yourself in Eilat (as I did when I discovered cheap Ryanair flights from Berlin), here are recommended things to do and not to do so that you don’t leave with a negative impression and rather, a shit-ton of good memories.
 
 ![](https://res.cloudinary.com/dofuzeof4/image/upload/v1543262443/The%20Hopeless%20Roamantic/eilat-israel/plane.jpg)
