@@ -2385,6 +2385,16 @@ select {
 .country-form:focus {
   outline: none;
 }
+
+.heart {
+  animation: beat .5s infinite alternate;
+  transform-origin: center;
+}
+
+@keyframes beat{
+  to { transform: scale(1.05); }
+}
+
 /* ==========================================================================
    15. Animations
    ========================================================================== */
