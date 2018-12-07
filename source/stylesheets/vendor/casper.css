@@ -2395,6 +2395,77 @@ select {
   to { transform: scale(1.05); }
 }
 
+.video-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 325px;
+  align-content: stretch;
+}
+
+.video-1 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  height: 300px;
+}
+
+.video-2 {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  height: 300px;
+}
+
+.video-3 {
+  grid-column-start: 3;
+  grid-column-end: 4;
+  height: 300px;
+}
+
+@media only screen and (max-width: 720px) {
+.video-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-content: stretch;
+}
+
+.video-1 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  height: 300px;
+}
+
+.video-2 {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  height: 300px;
+}
+
+.video-3 {
+  display: none;
+}
+}
+
+@media only screen and (max-width: 550px) {
+.video-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  align-content: stretch;
+}
+
+.video-1 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  height: 300px;
+}
+
+.video-2 {
+  display: none;
+}
+
+.video-3 {
+  display: none;
+}
+}
+
 /* ==========================================================================
    15. Animations
    ========================================================================== */
