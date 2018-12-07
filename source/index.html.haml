@@ -42,6 +42,12 @@ cover: india2.jpg
   %h3.author-title{style: "text-align: center;"}= "Latest Adventures"
   = partial('shared/page_articles',
             locals: { page_articles: page_articles, paginate: paginate })
+
+.video-grid
+  %iframe.video-1{:allow => "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture", :allowfullscreen => "", :frameborder => "0", :src => "https://www.youtube.com/embed/YYYDIgaD13g", :width => "100%"}
+  %iframe.video-2{:allow => "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture", :allowfullscreen => "", :frameborder => "0", :src => "https://www.youtube.com/embed/QhSMcv_uaZ8", :width => "100%"}
+  %iframe.video-3{:allow => "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture", :allowfullscreen => "", :frameborder => "0", :src => "https://www.youtube.com/embed/r6rmfnV6_tw", :width => "100%"}
+
 .sign-up
   %h2 Subscribe
   %p Are you the type to get lost in travel planning at work? If you need some off-the-beaten-path travel inspiration, subscribe below for stories, tips and more. I promise I won't overload your mailbox with bullshit.
