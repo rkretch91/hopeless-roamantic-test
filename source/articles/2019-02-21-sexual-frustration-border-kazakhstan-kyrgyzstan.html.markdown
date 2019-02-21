@@ -2,7 +2,7 @@
 title: How to Deal With Pent-Up Arousal From Someone Feeling Up Your Leg When Crossing By Mini-Van Over the Kazakhstan-Kyrgyzstan Border
 date: 2019-02-21
 tags: Kyrgyzstan, Bishkek, Ala-Archa, Soviet, Nature, Travel, Rural, Urban, Stories, Kazakhstan, Borders, Almaty
-cover: kyrgyzstan.jpg
+cover: https://res.cloudinary.com/dofuzeof4/image/upload/v1534508381/The%20Hopeless%20Roamantic/Bishkek/Kyrgystan-Bishkek-Marshrutka.jpg
 layout: post
 ---
 
