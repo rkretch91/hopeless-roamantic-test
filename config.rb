@@ -9,7 +9,7 @@ config[:casper] = {
     description: 'I am here to tell you that a life filled with roaming is okay. This blog is a mix of off-the-beaten-track travel inspiration and stories from all corners of the globe',
     date_format: '%d %B %Y',
     navigation: true,
-    logo: 'the-hopeless-roamantic-logo.png' # Optional
+    logo: 'the-hopeless-roamantic-logo-shadow-02.png' # Optional
   },
   author: {
     name: 'Ryan',
