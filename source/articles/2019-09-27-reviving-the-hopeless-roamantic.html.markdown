@@ -1,7 +1,7 @@
 ---
 title: Yeah, Fuck Travel Blogging
 date: 2019-09-27
-tags: inspiration, anti-travel
+tags: Inspiration, Anti-travel
 cover: done.jpg
 layout: post
 ---

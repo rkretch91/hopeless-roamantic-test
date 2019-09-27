@@ -20,7 +20,7 @@ cover: venezia.jpg
     %span.hidden Scroll Down
 
 %section.author-profile.inner
-  %h1.author-title Get Hopelessly Lost in this Incredible World With Me
+  %h1.author-title Always Finding Humor in Being a Lost Soul
   %br/
   = image_tag "the-hopeless-roamantic-heart-02.png", height: '150', class: 'heart'
   .travel-filter{style: "background-color: white; margin: 50px 0;"}
@@ -31,7 +31,6 @@ cover: venezia.jpg
           %label
             %select#travel-type.travel-style{:name => "travel", :onchange => "changeAction()"}
               %option{:value => "", disabled: true, selected: true} Select Here
-              %option{:value => "destinations"} Destinations
               %option{:value => "inspiration"} Inspiration
               %option{:value => "stories"} Stories
               %option{:value => "tips"} Tips
@@ -48,13 +47,13 @@ cover: venezia.jpg
   %iframe.video-2{:allow => "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture", :allowfullscreen => "", :frameborder => "0", :src => "https://www.youtube.com/embed/nWPMS6jAsjc?rel=0&modestbranding=1&autohide=1&showinfo=0&controls=0", :width => "100%"}
   %iframe.video-3{:allow => "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture", :allowfullscreen => "", :frameborder => "0", :src => "https://www.youtube.com/embed/7JQYPzdcVbI?rel=0&modestbranding=1&autohide=1&showinfo=0&controls=0", :width => "100%"}
 
-.sign-up
-  %h2 Subscribe
-  %p Are you the type to get lost in travel planning at work? If you need some off-the-beaten-path travel inspiration, subscribe below for stories, tips and more. I promise I won't overload your mailbox with bullshit.
-  %form#email-form{:method => "POST", :'data-netlify' => "true", name: "email-form"}
-    %input.email{:name => "email", :type => "text", :id => "email-entry"}/
-    %input.btn-submit{:type => "submit", :value => "Subscribe"}/
-  %p#success-message
+/ .sign-up
+/   %h2 Subscribe
+/   %p Are you the type to get lost in travel planning at work? If you need some off-the-beaten-path travel inspiration, subscribe below for stories, tips and more. I promise I won't overload your mailbox with bullshit.
+/   %form#email-form{:method => "POST", :'data-netlify' => "true", name: "email-form"}
+/     %input.email{:name => "email", :type => "text", :id => "email-entry"}/
+/     %input.btn-submit{:type => "submit", :value => "Subscribe"}/
+/   %p#success-message
 
 
 
@@ -62,9 +61,9 @@ cover: venezia.jpg
 
 
 
-.elfsight-app-8f530655-f193-4f52-8ca9-0abb6fff7345
+/ .elfsight-app-8f530655-f193-4f52-8ca9-0abb6fff7345
 
-%script{src: 'https://apps.elfsight.com/p/platform.js', defer: "true"}
+/ %script{src: 'https://apps.elfsight.com/p/platform.js', defer: "true"}
 
 
 
